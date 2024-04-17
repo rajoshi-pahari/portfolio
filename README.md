@@ -1,2 +1,2 @@
-# portfolio
-Portfolio made in HTML, CSS, JS.
+# Portfolio_JS
+Portfolio creation using HTML, CSS with main focus on JS
